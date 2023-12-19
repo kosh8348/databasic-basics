@@ -32,3 +32,5 @@ VALUES
   ('Darrel','Mcbride', 9),
   ('Rhea','Gaines', 9),
   ('Leonard','Giles', 10);
+
+-- 4

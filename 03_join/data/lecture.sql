@@ -20,3 +20,5 @@ VALUES
   ('dignissim pharetra.','tue',9,14,3),
   ('nibh dolor,','tue',12,12,4),
   ('gravida molestie','tue',11,13,7);
+
+-- 3
